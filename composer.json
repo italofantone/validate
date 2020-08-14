@@ -1,6 +1,13 @@
 {
     "name": "italomoralesf/validate",
-    "description": "Funciones básicas para Validación para aprender el ciclo básico de paquetes",
+    "description": "Funciones básicas de Validación para aprender el ciclo básico de los paquetes en PHP.",
+    "type": "library",
+    "keywords": [
+        "validate",
+        "italomoralesf",
+        "rimorsoft"
+    ],
+    "license": "MIT",
     "authors": [
         {
             "name": "Italo Morales F.",
