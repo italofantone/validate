@@ -1,6 +1,6 @@
 {
     "name": "italomoralesf/validate",
-    "description": "Funciones básicas de Validación para aprender el ciclo básico de los paquetes en PHP.",
+    "description": "Basic Validation functions to learn the basic cycle of packages in PHP / Funciones básicas de Validación para aprender el ciclo básico de los paquetes en PHP.",
     "type": "library",
     "keywords": [
         "validate",
